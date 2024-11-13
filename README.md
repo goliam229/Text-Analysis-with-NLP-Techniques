@@ -8,7 +8,7 @@ This project focuses on text analysis using Natural Language Processing (NLP) te
 - **Sentiment Analysis**: Classify text as positive, negative, or neutral using machine learning models.
 - **Named Entity Recognition (NER)**: Identify entities such as persons, organizations, locations, dates, and more.
 - **Topic Modeling**: Discover hidden topics in text data using Latent Dirichlet Allocation (LDA).
-- **Text Classification**: Categorize text into predefined categories or topics using various algorithms (e.g., Naive Bayes, SVM).
+- **Text Classification**: Categorize text into predefined categories or topics using various algorithms (e.g., Naive Bayes and SVM).
 - **Word Cloud Generation**: Visualize the most frequent words in a dataset.
 - **TF-IDF Vectorization**: Convert text into numerical features for machine learning tasks.
 
