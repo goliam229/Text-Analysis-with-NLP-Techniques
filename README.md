@@ -1,7 +1,7 @@
 # Text Analysis with NLP Techniques
 
 ## Overview
-This project focuses on text analysis using Natural Language Processing (NLP) techniques. It provides tools and models to process, analyze, and extract insights from text data . This includes tasks such as text classification, sentiment analysis, named entity recognition (NER), topic modeling, and more. The goal is to apply NLP techniques to extract meaningful information from unstructured text data.
+This project focuses on text analysis using Natural Language Processing (NLP) techniques. It provides tools and models to process, analyze, and extract insights from text data. This includes tasks such as text classification, sentiment analysis, named entity recognition (NER), topic modeling, and more. The goal is to apply NLP techniques to extract meaningful information from unstructured text data.
 
 ## Features
 - **Text Preprocessing**: Clean and prepare text for analysis by removing stop words, punctuation, and applying tokenization and stemming.
